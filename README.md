@@ -23,9 +23,9 @@ Your team's solution should aim to provide an engaging and user-friendly platfor
 ## Getting Started
 
 1. **Download the Project:**
-   [download link]()
+   [Download Link](https://github.com/Danomanic/wxw-starter/archive/refs/heads/main.zip)
 
-2. Unzip the file
+2. **Unzip the file**
     * Find the file
     * Right click -> Unzip File
 
