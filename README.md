@@ -39,7 +39,7 @@ Your team's solution should aim to provide an engaging and user-friendly platfor
 
 ## Project Structure
 
-The project is structured with the Gov.uk Design System components and styles already integrated. You can find the main application files in the `src` directory.
+The project is structured with the Gov.uk Design System components and styles already integrated. You can find the main application files in the `wxw-starter` directory.
 
 ```plaintext
 wxw-starter/
